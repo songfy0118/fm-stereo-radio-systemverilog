@@ -1,0 +1,29 @@
+# ModelSim
+work/
+transcript
+vsim.wlf
+modelsim.ini
+*.wlf
+
+# Synplify
+synwork/
+rev_*/
+stdout.log
+synlog.tcl
+tr_db.log
+
+# Test data (too large for git)
+test/usrp.dat
+sw_ref/usrp_subset.dat
+sw_ref/fm_radio_test
+
+# Generated test vectors (regenerate with make)
+sw_ref/*.txt
+sw_ref/*.hex
+
+# UVM library
+sim/lib/uvm_dpi.so
+
+# OS
+.DS_Store
+Thumbs.db
