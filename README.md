@@ -1,6 +1,6 @@
 # FM Stereo Radio Receiver — SystemVerilog RTL
 
-COMP_ENG 387 Real-Time Digital Systems Design and Verification with FPGAs
+Northwestern University — COMP_ENG 355: ASIC and FPGA Design
 
 Final Project — Feiyang Song & Lincy Lin (Team 8)
 
